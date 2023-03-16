@@ -8,4 +8,4 @@ bot = commands.Bot(command_prefix="*", intents=disnake.Intents.all())
 async def kotik(interaction: disnake.AppCmdInter):
   await interaction.send("Котик крутой")
 
-bot.run(ODY3MTY4MzgxMDIzMjg5MzU0.YPdLfQ.uVw_Pi4inPbHpS1ybppPQepOyqg)
+bot.run()
